@@ -36,3 +36,5 @@ To this:
 const static uint16_t ticklePWM = 21;
 
 An issue has been opened in the original project.
+
+(For now, fixed code is availble here OPAL-master.zip)
